@@ -1,0 +1,1 @@
+<h1>Seja bem vindo ao nosso sistema {{ $user->name }}</h1>
